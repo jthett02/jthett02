@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning languages such as C++ and Python
 
 - 📫 jthett02@louisville.edu
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 jthett02/jthett02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
