@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jett Hettinger
-- 👀 I’m interested in Computer Engineering 
+- 👀 I’m interested in Computer Science Engineering 
 - 🌱 I’m currently learning languages such as C++ and Python
 
 - 📫 jthett02@louisville.edu
