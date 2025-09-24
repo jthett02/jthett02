@@ -1,9 +1,6 @@
-- https://www.bspsteamcommunity.com   <-- Current Project
-
 - 👋 Hi, I’m Jett Hettinger
-- 👀 I’m interested in Computer Science Engineering 
-- 🌱 I’m currently learning languages such as C++, Python, and Java
-
+- 👀 I’m interested in Computer Science Engineering
+- https://www.bspsteamcommunity.com 
 - 📫 jthett02@louisville.edu
 
 <!---
